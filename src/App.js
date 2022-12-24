@@ -16,7 +16,7 @@ function App() {
 
   return (
     <section className='app'>
-      <p className='app-text'>Gm222 Maxsulotlari</p>
+      <p className='app-text'>DC Burger</p>
       <Product />
     </section>
   );
