@@ -15,8 +15,8 @@ function App() {
 
   return (
     <section className='app'>
-      ISHLADI
-      <button onClick={onChose}>Закрыть</button>
+      <p className='app-text'>Gm222 Maxsulotlari</p>
+      <button className='app-btn' onClick={onChose}>Закрыть</button>
     </section>
   );
 }

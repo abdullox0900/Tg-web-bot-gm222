@@ -8,3 +8,21 @@ body {
   background-color: var(--tg-theme-bg-color);
   color: var(--tg-theme-text-color);
 }
+
+.app {
+  text-align: center;
+  padding: 30px;
+}
+
+.app-text {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.app-btn {
+  padding: 10px 20px;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  background-color: darkblue;
+}
